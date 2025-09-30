@@ -5,6 +5,8 @@ description: This resource contains professor answers student questions that hav
 file: /courses/cms-610-media-industries-and-systems-spring-2006/c650fed0a42e4e253427afc9282eda5f_l10_extra.pdf
 file_size: 86420
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

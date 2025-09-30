@@ -1,5 +1,7 @@
 ---
 content_type: page
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

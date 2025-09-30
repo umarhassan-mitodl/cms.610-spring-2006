@@ -4,6 +4,8 @@ description: This resource contains information on play balance and online games
 file: /courses/cms-610-media-industries-and-systems-spring-2006/50fa40cef3706a393cb59ca4af36793a_l13_extra.pdf
 file_size: 80257
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
