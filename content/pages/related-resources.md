@@ -1,8 +1,6 @@
 ---
 content_type: page
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -10,39 +8,39 @@ uid: a202bd07-876b-8070-26f7-5b627aa2464f
 ---
 ## General
 
-[Fighting Fear in the Digital Age](http://www.next-gen.biz/index.php?option=com_content&task=view&id=1969&Itemid=35) - A short article on how utility fees might solve a host of problems regarding copyrighted materials. Recently a severely restrictive and punitive copyright bill was submitted for a vote before French legislators. The result, however, was nothing short of a rather amazing turn of events that should give hope to all IP users.
+{{% resource_link "084b2b8e-fdb0-4da8-877a-d92ff697c60e" "Fighting Fear in the Digital Age" %}} - A short article on how utility fees might solve a host of problems regarding copyrighted materials. Recently a severely restrictive and punitive copyright bill was submitted for a vote before French legislators. The result, however, was nothing short of a rather amazing turn of events that should give hope to all IP users.
 
 ## Links to Videogame Examples Mentioned In Class
 
-[Halo 2™](https://store.xbox.com/en-US/Xbox-One/Games/Halo-Spartan-Assault/a3807603-9e22-48b2-8b75-c6bf36ddc511)
+{{% resource_link "7b415dec-06d4-46ff-809a-c4644f6aa1b8" "Halo 2™" %}}
 
-[Grand Theft® Auto: San Andreas](http://www.rockstargames.com/sanandreas/)
+{{% resource_link "cd328755-8d61-4f73-9b5b-d2bd3866ffa7" "Grand Theft® Auto: San Andreas" %}}
 
-[Gradius® V](http://www.gamespot.com/ps2/action/gradius5/index.html)
+{{% resource_link "ea78c47a-45ae-4eb5-8bba-30de6f5bd2de" "Gradius® V" %}}
 
-[Resident Evil® 4](https://www.residentevil.com/4/)
+{{% resource_link "c8de96b9-11f6-44ee-9c39-d263ce90b1df" "Resident Evil® 4" %}}
 
-[Fatal Frame®](http://en.wikipedia.org/wiki/Fatal_Frame)
+{{% resource_link "b023e697-56d7-46bb-9075-dd663e4d5c32" "Fatal Frame®" %}}
 
-[Jak II™](https://en.wikipedia.org/wiki/Jak_II)
+{{% resource_link "ccb5cf89-c88c-4c09-8c63-87b5e42c6502" "Jak II™" %}}
 
-[Technic Beat®](http://ps2.ign.com/objects/686/686485.html)
+{{% resource_link "fc8a5e3c-6f3a-49af-bfd4-2b525f88638b" "Technic Beat®" %}}
 
-[Mario Power Tennis®](https://www.mariowiki.com/Mario_Power_Tennis)
+{{% resource_link "414cf415-591f-4050-b1c0-99a888b799ce" "Mario Power Tennis®" %}}
 
-[Burnout™](https://www.ea.com/games/burnout)
+{{% resource_link "e2dd2ba2-eee1-4663-bdd9-119a90958513" "Burnout™" %}}
 
 ## Miscellaneous Videogame Articles
 
-[Dirty Harry Debut for Videogame](http://news.bbc.co.uk/2/hi/entertainment/4295331.stm) - Actor Clint Eastwood is to reprise his most famous role - in a computer game version of Dirty Harry.
+{{% resource_link "66e0b7ba-00ea-433d-abad-ffe5c2e1e42a" "Dirty Harry Debut for Videogame" %}} - Actor Clint Eastwood is to reprise his most famous role - in a computer game version of Dirty Harry.
 
-[Alternate Reality Gaming](https://electronics.howstuffworks.com/alternate-reality-gaming.htm) - Alternate reality gaming is an obsession-inspiring genre that blends real-life treasure hunting, interactive storytelling, video games and online community and may, incidentally, be one of the most powerful guerrilla marketing mechanisms ever invented.
+{{% resource_link "01713d54-d6a9-4cef-ace1-2ca91b61e4ee" "Alternate Reality Gaming" %}} - Alternate reality gaming is an obsession-inspiring genre that blends real-life treasure hunting, interactive storytelling, video games and online community and may, incidentally, be one of the most powerful guerrilla marketing mechanisms ever invented.
 
-[VR Participatory Experiment](http://www.buffalo.edu/news/fast-execute.cgi/article-page.html?article=71550009) - A virtual-reality drama by University of Buffalo researchers is driving the development of increasingly "self-aware" computational agents that are able to improvise responses to the spontaneous actions of human users. The virtual-reality drama, "The Trial The Trail," is a brand new type of dramatic entertainment, where instead of identifying with the protagonist, the audience becomes the protagonist.
+{{% resource_link "9cca256c-90ac-4c1d-99cd-ea9ca97d8632" "VR Participatory Experiment" %}} - A virtual-reality drama by University of Buffalo researchers is driving the development of increasingly "self-aware" computational agents that are able to improvise responses to the spontaneous actions of human users. The virtual-reality drama, "The Trial The Trail," is a brand new type of dramatic entertainment, where instead of identifying with the protagonist, the audience becomes the protagonist.
 
-[2005 Game Developers Conference Keynote Address](http://planetgamecube.com/newsArt.cfm?artid=10378&CFID=14035898&CFTOKEN=62d1ad2e1888e949-8BC2B202-C09F-3E62-0527474CB07D838A) - This is the official transcription of Satoru Iwata's keynote speech. 2005 Game Developers Conference Keynote Address Delivered by Nintendo President Satoru Iwata.
+{{% resource_link "01134080-7d86-4d45-b3be-2fb2f3c3fde0" "2005 Game Developers Conference Keynote Address" %}} - This is the official transcription of Satoru Iwata's keynote speech. 2005 Game Developers Conference Keynote Address Delivered by Nintendo President Satoru Iwata.
 
-[The Blind Fragging the Blind](http://archive.wired.com/gaming/gamingreviews/news/2005/03/66879?currentPage=all) - A growing library of computer games has been built specially for blind gamers, using sound instead of visuals to let players know what's going on around them.
+{{% resource_link "2fc29db2-6ffd-495a-8051-7527374d7850" "The Blind Fragging the Blind" %}} - A growing library of computer games has been built specially for blind gamers, using sound instead of visuals to let players know what's going on around them.
 
 Tommy Tallarico Interview - Tommy Tallarico is a well known musician in the games industry and has been writing music for over 15 years. He currently hosts two TV shows on the gaming network G4. GameDAILY BIZ interviews Tommy who discusses his career, and where he thinks video game music is headed
 
@@ -50,13 +48,13 @@ A Star Wars Sequel (Except It's Not) - Interesting NYT article on Jade Empire an
 
 Herold, Charles. "Game Theory; A Star Wars Sequel (Except It's Not)." _New York Times_, April 22, 2005.
 
-[The NPD Group Reports Annual 2004 U.S. Video Game Industry Retail Sales](http://www.npd.com/corpServlet?nextpage=corp_welcome.html) - The NPD Group provides global sales and marketing information. They combine consumer information with point-of-sale data collected from retailers and other distribution channels across a wide range of vertical markets, including apparel, appliances, automotive, beauty, cellular, consumer electronics, food and beverage, foodservice, footwear, housewares, imaging, information technology, movies, music, software, toys, travel, and video games.
+{{% resource_link "f4920f3d-bc4e-4366-9816-7a0856a0c4f3" "The NPD Group Reports Annual 2004 U.S. Video Game Industry Retail Sales" %}} - The NPD Group provides global sales and marketing information. They combine consumer information with point-of-sale data collected from retailers and other distribution channels across a wide range of vertical markets, including apparel, appliances, automotive, beauty, cellular, consumer electronics, food and beverage, foodservice, footwear, housewares, imaging, information technology, movies, music, software, toys, travel, and video games.
 
 Retro Redux-Atari Competition - It was all part of Retro Redux, a competition last weekend at the Parsons School of Design in Greenwich Village that gave nine teams of aspiring designers a mere 24 hours to create complete games based on the Atari 2600, the classic 1978 console that helped spawn iconic titles like "Asteroids," "Centipede" and "Pong."
 
 Schiesel, Seth. "Retro Redux: When Yellow Blobs Ate Other Yellow Blobs." _New York Times_, April 6, 2005.
 
-[A New Reality in Video Games: Advertisements](http://www.nytimes.com/glogin?URI=http://gk.nytimes.com/mem/gatekeeper.html&OQ=_rQ3D1Q26URIQ3DhttpQ3AQ2FQ2Fwww.nytimes.comQ2F2005Q2F04Q2F11Q2FtechnologyQ2F11game.htmlQ26OQ51Q3D_rQ513D1Q5126thQ5126emcQ513DthQ26OPQ3D1d37a606Q512F,2JC,aMdmeMMoQ5127,Q5127LL3,LQ512A,Q5120Q5120,oJdQ513CQ515CMFMIN,Q5120Q5120IRQ5125JQ517EQ513CoQ5125F&OP=5f3ec1Q2F6XQ7D16AsPQ7DQ27fQ246!PQ3BQ27YYAi6YQ2B_PQ7D!PQ7Df6cQ27PQ7DkQ7DQ7DYQ7DQ2BU!PQ3B) - Game publishers seek new sources of revenue to offset the growing cost of producing games, which can reach $10 million to $20 million, excluding marketing expenses. At the same time, advertisers are looking for new ways to reach 18- to 34-year-old males, a sought-after audience that is increasingly abandoning television (and TV commercials) and spending more time playing video games. The confluence of these trends is likely to make product placement in games more appealing. "This is the next big way publishers are talking about growing their revenue," said Evan Wilson, an industry analyst with Pacific Crest Securities. Mr. Wilson added that the use of commercials was "almost inevitable in mass-market games."
+{{% resource_link "3c8a6a21-d999-4c2f-a92f-a365e1e761bc" "A New Reality in Video Games: Advertisements" %}} - Game publishers seek new sources of revenue to offset the growing cost of producing games, which can reach $10 million to $20 million, excluding marketing expenses. At the same time, advertisers are looking for new ways to reach 18- to 34-year-old males, a sought-after audience that is increasingly abandoning television (and TV commercials) and spending more time playing video games. The confluence of these trends is likely to make product placement in games more appealing. "This is the next big way publishers are talking about growing their revenue," said Evan Wilson, an industry analyst with Pacific Crest Securities. Mr. Wilson added that the use of commercials was "almost inevitable in mass-market games."
 
 Richtel, Matt. "A New Reality In Video Games: Advertisements." _New York Times_, April 11, 2005.
 
@@ -64,32 +62,32 @@ The Matrix Online - "The Matrix Online, from Warner Brothers Interactive Enterta
 
 Levine, Robert. "Technology; The Matrix Ever-Loaded: Online Game for the Committed." _New York Times_, April 25, 2005.
 
-[EA monopoly in Sports](http://money.cnn.com/2004/12/14/commentary/game_over/column_gaming/) - CNN article from last year illustrates the lengths that companies will go to protect their premium brands.
+{{% resource_link "c8ea67d3-6409-439d-867e-f3832745e0bb" "EA monopoly in Sports" %}} - CNN article from last year illustrates the lengths that companies will go to protect their premium brands.
 
-[The Psychology Behind Games](http://www.gamasutra.com/features/20050426/hejdenberg_pfv.htm) - An interesting Gamasutra article this week on the subject.
+{{% resource_link "98ee0e7b-bd3a-4440-940e-c2f3d2a2cfbb" "The Psychology Behind Games" %}} - An interesting Gamasutra article this week on the subject.
 
-[Savage Pastimes](https://haroldschechter.com/books/savage-pastimes) - Harold Schechter, a Professor of Literature at Queens College in New York, makes a compelling argument about the benefit of video games. Professor Schechter's thesis is that man is hard wired to be violent. As a result, we have a need to express our violent dispositions in culturally acceptable ways without doing harm and videogames supply that way. (from Next Generation Magazine 2/6/06)
+{{% resource_link "5ddfab64-e32c-4432-b40f-1f3d65f24737" "Savage Pastimes" %}} - Harold Schechter, a Professor of Literature at Queens College in New York, makes a compelling argument about the benefit of video games. Professor Schechter's thesis is that man is hard wired to be violent. As a result, we have a need to express our violent dispositions in culturally acceptable ways without doing harm and videogames supply that way. (from Next Generation Magazine 2/6/06)
 
-[Transition Nightmare](http://www.next-gen.biz/index.php?option=com_content&task=view&id=2392&Itemid=2) - Hardware delays, console shortages and dull games have turned the promise of a smooth transition into a wasteland. Who is going to carry the can? NextGeneration's Editor, Colin Campbell, weighs in…
+{{% resource_link "cd49cb8b-3da4-4fbe-a9d7-4c033d082e75" "Transition Nightmare" %}} - Hardware delays, console shortages and dull games have turned the promise of a smooth transition into a wasteland. Who is going to carry the can? NextGeneration's Editor, Colin Campbell, weighs in…
 
 ## Useful Research Sites
 
-[Entertainment Software Association](http://www.theesa.com/) - The primary videogame industry association in Washington, DC. The ESA site has various studies and metrics on the industry that are free.
+{{% resource_link "f98d899d-c64e-4b43-8969-e8ea1d1095b8" "Entertainment Software Association" %}} - The primary videogame industry association in Washington, DC. The ESA site has various studies and metrics on the industry that are free.
 
-[Game Rankings](http://www.gamerankings.com/) - Offers consumer ratings.
+{{% resource_link "ffdfea85-fea8-4c8f-bd0c-757b256e3181" "Game Rankings" %}} - Offers consumer ratings.
 
-[Game Spot](http://www.gamespot.com/) - Offers news, reviews, hints, guides and forums covering all the top games. The platforms included in their content include GameCube{{< sup "TM" >}}, Xbox®, Playstation® 2, Dreamcast{{< sup "TM" >}}, Nintendo 64{{< sup "TM" >}}, Playstation®, Game Boy® Advance and Game Boy® Color as well as a separate section for PC games.
+{{% resource_link "f6c43076-7346-497e-bf48-6cb9a86d4208" "Game Spot" %}} - Offers news, reviews, hints, guides and forums covering all the top games. The platforms included in their content include GameCube{{< sup "TM" >}}, Xbox®, Playstation® 2, Dreamcast{{< sup "TM" >}}, Nintendo 64{{< sup "TM" >}}, Playstation®, Game Boy® Advance and Game Boy® Color as well as a separate section for PC games.
 
-[GamePro](http://www.gamepro.de/) - Good general site covering all major platforms with discussion forums and cheats.
+{{% resource_link "dcb980b9-5dec-4313-823b-cdb9b50eca34" "GamePro" %}} - Good general site covering all major platforms with discussion forums and cheats.
 
-[Half.com](http://video-games.half.ebay.com/) - Half.com is one of the largest online trading sites for games managed through eBay. Gamers buy and sell used games.
+{{% resource_link "fd40d9bc-0e9d-4b1a-8b48-54a1be6f0b43" "Half.com" %}} - Half.com is one of the largest online trading sites for games managed through eBay. Gamers buy and sell used games.
 
-[IGN.com](http://www.ign.com/) - IGN.com won the 2001 "People's Voice" Webby award for the best games site. They offer news and reviews, strategy guides, competitions and much more for games across all platforms.
+{{% resource_link "2e36d041-19f6-4b6b-86b6-ce0c1a0b2c02" "IGN.com" %}} - IGN.com won the 2001 "People's Voice" Webby award for the best games site. They offer news and reviews, strategy guides, competitions and much more for games across all platforms.
 
-[NPD Group](http://www.npd.com/) - NPD is a major supplier of marketing data across a variety of industries, including entertainment software.
+{{% resource_link "ba96af2e-b920-4f96-80c1-b752a71aa9d4" "NPD Group" %}} - NPD is a major supplier of marketing data across a variety of industries, including entertainment software.
 
-[Nuclear Winter Gaming Network](http://www.giantbomb.com/nuclear-winter/3005-7174/) - General underground site with descriptions and cheats as well as links to other sites.
+{{% resource_link "ea15cf2a-e03a-410b-8974-de24e59ae9d9" "Nuclear Winter Gaming Network" %}} - General underground site with descriptions and cheats as well as links to other sites.
 
-[Boston Games Companies](http://www.bostonpostmortem.org/boston-area-game-companies/) - Boston area companies that do game related work.
+{{% resource_link "89917fd4-584d-4613-a0af-25b1ecbf3afb" "Boston Games Companies" %}} - Boston area companies that do game related work.
 
-[Moby Games](http://www.mobygames.com/home) - MobyGames is one of the best known repositories of games, reviews and industry profiles.
+{{% resource_link "31650add-c2cf-4ee0-a344-4de19a087b25" "Moby Games" %}} - MobyGames is one of the best known repositories of games, reviews and industry profiles.
