@@ -4,12 +4,11 @@ description: New image Upload
 file: /courses/cms-610-media-industries-and-systems-spring-2006/522a75624003b23e8fbdbf33fd898eb0_cms-610s06-th.jpg
 file_size: 15263
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The course examines the interplay of art, science, and commerce shaping
     the production, marketing, distribution, and consumption of contemporary media.
-    (Photo courtesy of [Jon Jordan](http://www.flickr.com/photos/jontintinjordan/).)
+    (Photo courtesy of {{% resource_link "f9b7af60-84b1-4eba-997d-5ca626a40279" "Jon
+    Jordan" %}}.)
   credit: ''
   image-alt: Playing with a handheld video game controller.
 learning_resource_types: []
